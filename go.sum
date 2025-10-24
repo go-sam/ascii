@@ -1,0 +1,10 @@
+github.com/go-sam/args v0.0.0-20251024154947-f79936a7f764 h1:LioKpzFy8zkg5zO9hxeuqzpzrSmawSQg3z7L7r3RCq8=
+github.com/go-sam/args v0.0.0-20251024154947-f79936a7f764/go.mod h1:xIcJ20wjzljT4fTdSo4uSCGNFM5iNn9dhjVj6ScAWQY=
+github.com/go-sam/colours v0.0.0-20251024160013-0182101383f4 h1:8+XiiX5jqNZmCTajO2gf32BYcr2Uv10lYDvOY4keunA=
+github.com/go-sam/colours v0.0.0-20251024160013-0182101383f4/go.mod h1:z2W9NjSojY2ciVxOcWuJVvbTCTljyYMmuIOIrdAixbA=
+github.com/go-sam/typewriter v0.0.0-20251024150610-13086a19ba87 h1:j4CCJ0YL4kQvxKij5hpvWSnIHD4tqQeQ5q58DdP4zkM=
+github.com/go-sam/typewriter v0.0.0-20251024150610-13086a19ba87/go.mod h1:iRZGRgYprIT68J9IpzPyW4wF8r1pTJk1GOOw6Nr0Bhc=
+github.com/go-sam/utils v0.0.0-20251024110842-c3f58615da0f h1:qRfT/CPfShTKoP4p5ZDQAwAp5TmGh/BmwTeb54CbDLo=
+github.com/go-sam/utils v0.0.0-20251024110842-c3f58615da0f/go.mod h1:OgYer87fjCeFs2GQySK7ivrY5vLvoAmrRwmyJYpRI2c=
+github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 h1:zYyBkD/k9seD2A7fsi6Oo2LfFZAehjjQMERAvZLEDnQ=
+github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646/go.mod h1:jpp1/29i3P1S/RLdc7JQKbRpFeM1dOBd8T9ki5s+AY8=
